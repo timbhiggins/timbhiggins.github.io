@@ -1,0 +1,12 @@
+title: "My Jekyll Site"
+description: "A simple site using Jekyll"
+baseurl: ""  # Leave this empty unless your site is in a subdirectory
+url: "https://timbhiggins.github.io"  # Change this to match your GitHub Pages URL
+
+# Theme (Change this if using a different one)
+theme: minima
+
+# Plugins (if needed)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
