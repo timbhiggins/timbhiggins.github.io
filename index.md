@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Tim Higgins, PhD Candidate
+title: About Me
 ---
 
 
