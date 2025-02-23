@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Welcome to My Site
+title: Tim Higgins, PhD Candidate
 ---
 
-Hello! This is my personal website built with Jekyll and Minima.
+
 
