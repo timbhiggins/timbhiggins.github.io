@@ -5,7 +5,7 @@ url: "https://timbhiggins.github.io"  # Change this to match your GitHub Pages U
 
 # Theme (Change this if using a different one)
 theme: minima
-
+footer: "/includes/footer.html"
 # Plugins (if needed)
 plugins:
   - jekyll-feed
