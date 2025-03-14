@@ -4,6 +4,8 @@ baseurl: ""  # Leave this empty unless your site is in a subdirectory
 url: "https://timbhiggins.github.io"  # Change this to match your GitHub Pages URL
 #logo:
 # Theme (Change this if using a different one)
+header_pages:
+	-index.md
 theme: minima
 footer: "/includes/footer.html"
 # Plugins (if needed)
