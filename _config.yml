@@ -1,8 +1,8 @@
-title: "Tim Higgins, PhD Candidate"
+title: "Tim Higgins"
 description: "timbhiggins97@gmail.com"
 baseurl: ""  # Leave this empty unless your site is in a subdirectory
 url: "https://timbhiggins.github.io"  # Change this to match your GitHub Pages URL
-
+#logo:
 # Theme (Change this if using a different one)
 theme: minima
 footer: "/includes/footer.html"
