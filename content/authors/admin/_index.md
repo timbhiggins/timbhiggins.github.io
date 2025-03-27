@@ -44,14 +44,14 @@ interests:
 education:
   - area: PhD Atmospheric and Oceanic Sciences
     institution: University of Colorado - Boulder
-    date_start: 2020-08
-    date_end: 2025-05
+    date_start: 2020-08-01
+    date_end: 2025-05-07
     summary: |
       Thesis on the prediction of atmospheric rivers on medium-range, subseasonal to seasonal, and climate scales. Supervised by [Prof Aneesh Subramanian](https://sites.google.com/site/aneeshcs/).
   - area: BsC Atmospheric Sciences and Meteorology, Mathematics (Applied)
     institution: University of Miami
-    date_start: 2016-08
-    date_end: 2020-05
+    date_start: 2016-08-15
+    date_end: 2020-05-08
 ---
 
 ## About Me
