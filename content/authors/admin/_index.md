@@ -32,7 +32,7 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/timothy-higgins-918778194
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=ANZ5fUOr2z1J-nERJoasOpgEy6YwptfYAXeAjUUthIO2yMnVgFGfAnTtdpernwddyFihdXkhVbsMk0C_3FJajznVDv9qxOP1UFjIp5kTx_dZ-ozhdwbxMvRxTJn0ctemKO6huAPp6Pdx&user=sBuPY1YAAAAJ&inst=12445218673517910016
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-2204-9193
 
