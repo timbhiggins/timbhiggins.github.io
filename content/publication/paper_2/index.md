@@ -16,7 +16,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Weather and Forecasting*, 39, 833-846"
-publication_short: "WAF"
+publication_short: "*WAF*"
 
 abstract: Accurate forecasts of weather conditions have the potential to mitigate the social and economic damages they cause. To make informed decisions based on forecasts, it is important to determine the extent to which they could be skillful. This study focuses on subseasonal forecasts out to a lead time of four weeks. We examine the differences between the potential predictability, which is computed under the assumption of a "perfect model", of integrated vapor transport (IVT) and precipitation under extreme conditions in subseasonal forecasts across the northeast Pacific. Our results demonstrate significant forecast skill of extreme IVT and precipitation events (exceeding the 90$^{th}$ percentile) into week 4 for specific areas, particularly when anomalously wet conditions are observed in the true model state. This forecast skill during weeks 3 and 4 is closely associated with a zonal extension of the North Pacific Jet. These findings of the source of skillful subseasonal forecasts over the US West Coast could have implications for water management in these regions susceptible to drought and flooding extremes. Additionally, they may offer valuable insights for governments and industries on the US West Coast seeking to make informed decisions based on extended weather prediction.
 

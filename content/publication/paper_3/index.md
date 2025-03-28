@@ -17,7 +17,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Geophysical Research Letters*, 52, e2024GL112237"
-publication_short: "GRL"
+publication_short: "*GRL*"
 
 abstract: Despite advances in our understanding of changes to severe weather events due to climate change, uncertainty regarding rare extreme events persists. Atmospheric rivers (ARs), which are directly responsible for the majority of precipitation extremes on the US West Coast, are projected to intensify in a warming world. In this study, we utilize two unique large‐ensemble climate models to examine rare extreme AR events under various warming scenarios. By quantifying changes to rare extremes, we can gain some insight into the potential for these destructive unprecedented events to occur in the future. Additionally, the abundance of data used in this study enables changes to both seasonal extreme AR occurrences and changes to extremes during various synoptic‐scale flow patterns to be explored. From this analysis, we find substantial changes to AR extremes under even mild warming scenarios with disproportionately large changes during weather regimes that are conducive to AR activity.
 

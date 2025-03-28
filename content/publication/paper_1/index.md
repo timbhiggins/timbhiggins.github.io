@@ -15,7 +15,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Journal of Advances in Modeling Earth Systems*,15,e2022MS003495"
-publication_short: "JAMES"
+publication_short: "*JAMES*"
 
 abstract: There is currently large uncertainty over the impacts of climate change on precipitation trends over the US west coast. Atmospheric rivers (ARs) are a significant source of US west coast precipitation and trends in ARs can provide insight into future precipitation trends. There are already a variety of different methods used to identify ARs, but many are used in contexts that are often difficult to apply to large climate datasets due to their computational cost and requirement of integrated vapor transport as an input variable, which can be expensive to compute in climate models at high temporal frequencies. Using deep learning (DL) to track ARs is a unique approach that can alleviate some of the computational challenges that exist in more traditional methods. However, some questions still remain regarding its flexibility and robustness. This research investigates the consistency of a DL methodology of tracking ARs with more established algorithms to demonstrate its high‐level performance for future studies.
 
