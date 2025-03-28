@@ -1,16 +1,14 @@
 ---
-title: "An example journal article"
+title: "Changes to Atmospheric River Related Extremes over the United States West Coast under Anthropogenic Warming"
 authors:
-- admin
-- Robert Ford
+- Higgins, T. B., A. C. Subramanian, P. A. G. Watson, and S. Sparrow.
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+
+date: "2025-03-19T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-03-28T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,13 +16,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "*Geophysical Research Letters*, 52, e2024GL112237"
+publication_short: "GRL"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Despite advances in our understanding of changes to severe weather events due to climate change, uncertainty regarding rare extreme events persists. Atmospheric rivers (ARs), which are directly responsible for the majority of precipitation extremes on the US West Coast, are projected to intensify in a warming world. In this study, we utilize two unique large‐ensemble climate models to examine rare extreme AR events under various warming scenarios. By quantifying changes to rare extremes, we can gain some insight into the potential for these destructive unprecedented events to occur in the future. Additionally, the abundance of data used in this study enables changes to both seasonal extreme AR occurrences and changes to extremes during various synoptic‐scale flow patterns to be explored. From this analysis, we find substantial changes to AR extremes under even mild warming scenarios with disproportionately large changes during weather regimes that are conducive to AR activity.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
 - Source Themes
@@ -33,13 +31,13 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: 
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL112237'
 url_video: ''
 
 # Featured image

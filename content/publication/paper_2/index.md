@@ -1,7 +1,7 @@
 ---
 title: "Subseasonal Potential Predictability of Horizontal Water Vapor Transport and Precipitation Extremes in the North Pacific"
 authors:
-- Higgins, Timothy B., Subramanian, Aneesh C., Chapman, Will E., Lavers, David A., and Winters, Andrew C.
+- Higgins, T. B., A. C. Subramanian, W. E. Chapman, D. A. Lavers, and A. C. Winters.
 
 date: "2024-09-01T00:00:00Z"
 doi: "10.1175/WAF-D-23-0170"
@@ -16,7 +16,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Weather and Forecasting*, 39, 833-846"
-publication_short: ""
+publication_short: "WAF"
 
 abstract: Accurate forecasts of weather conditions have the potential to mitigate the social and economic damages they cause. To make informed decisions based on forecasts, it is important to determine the extent to which they could be skillful. This study focuses on subseasonal forecasts out to a lead time of four weeks. We examine the differences between the potential predictability, which is computed under the assumption of a "perfect model", of integrated vapor transport (IVT) and precipitation under extreme conditions in subseasonal forecasts across the northeast Pacific. Our results demonstrate significant forecast skill of extreme IVT and precipitation events (exceeding the 90$^{th}$ percentile) into week 4 for specific areas, particularly when anomalously wet conditions are observed in the true model state. This forecast skill during weeks 3 and 4 is closely associated with a zonal extension of the North Pacific Jet. These findings of the source of skillful subseasonal forecasts over the US West Coast could have implications for water management in these regions susceptible to drought and flooding extremes. Additionally, they may offer valuable insights for governments and industries on the US West Coast seeking to make informed decisions based on extended weather prediction.
 
@@ -30,13 +30,13 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: 
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://journals.ametsoc.org/view/journals/wefo/39/6/WAF-D-23-0170.1.xml'
 url_video: ''
 
 # Featured image
