@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "doi:10.1175/WAF-D-23-0170"
 authors:
 - admin
 - Higgins, Timothy B. and Subramanian, Aneesh C. and Chapman, Will E. and Lavers, David A. and Winters, Andrew C.
@@ -16,10 +16,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Weather and Forecasting, 39, 833-846"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Accurate forecasts of weather conditions have the potential to mitigate the social and economic damages they cause. To make informed decisions based on forecasts, it is important to determine the extent to which they could be skillful. This study focuses on subseasonal forecasts out to a lead time of four weeks. We examine the differences between the potential predictability, which is computed under the assumption of a "perfect model", of integrated vapor transport (IVT) and precipitation under extreme conditions in subseasonal forecasts across the northeast Pacific. Our results demonstrate significant forecast skill of extreme IVT and precipitation events (exceeding the 90$^{th}$ percentile) into week 4 for specific areas, particularly when anomalously wet conditions are observed in the true model state. This forecast skill during weeks 3 and 4 is closely associated with a zonal extension of the North Pacific Jet. These findings of the source of skillful subseasonal forecasts over the US West Coast could have implications for water management in these regions susceptible to drought and flooding extremes. Additionally, they may offer valuable insights for governments and industries on the US West Coast seeking to make informed decisions based on extended weather prediction.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
