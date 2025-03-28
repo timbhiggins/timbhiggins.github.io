@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://timbhiggins.github.io/sitemap.xml
