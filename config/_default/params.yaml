@@ -58,4 +58,4 @@ features:
     enable: false
   privacy_pack:
     enable: false
-avatar: "/uploads/avatar.jpg"
+avatar: "/content/authors/admin/avatar.jpg"
