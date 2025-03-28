@@ -1,7 +1,6 @@
 ---
-title: "An example journal article"
+title: "Using Deep Learning for an Analysis of Atmospheric Rivers in a High-Resolution Large Ensemble Climate Dataset"
 authors:
-- admin
 - Timothy B. Higgins
 date: "2015-09-01T00:00:00Z"
 doi: "10.1029/2022MS003495"

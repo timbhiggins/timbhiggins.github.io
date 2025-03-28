@@ -1,8 +1,7 @@
 ---
 title: "Subseasonal Potential Predictability of Horizontal Water Vapor Transport and Precipitation Extremes in the North Pacific"
 authors:
-- admin
-- Higgins, Timothy B. and Subramanian, Aneesh C. and Chapman, Will E. and Lavers, David A. and Winters, Andrew C.
+- Higgins, Timothy B., Subramanian, Aneesh C., Chapman, Will E., Lavers, David A., and Winters, Andrew C.
 
 date: "2024-09-01T00:00:00Z"
 doi: "10.1175/WAF-D-23-0170"
