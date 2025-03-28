@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 
+#title: 
 
 
 # Full name (for SEO)
