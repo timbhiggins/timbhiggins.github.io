@@ -48,7 +48,7 @@ education:
     date_end: 2025-05-07
     summary: |
       Thesis on the prediction of atmospheric rivers on medium-range, subseasonal to seasonal, and climate scales. Supervised by [Prof Aneesh Subramanian](https://sites.google.com/site/aneeshcs/).
-  - area: BsC Atmospheric Sciences and Meteorology, Mathematics (Applied)
+  - area: BSc Atmospheric Sciences and Meteorology, Mathematics (Applied)
     institution: University of Miami
     date_start: 2016-08-15
     date_end: 2020-05-08
