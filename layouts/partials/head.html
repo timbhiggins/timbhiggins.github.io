@@ -1,0 +1,20 @@
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>{{ .Title }}</title>
+  <meta name="description" content="{{ .Site.Params.description }}">
+
+  {{ hugo.Generator }}
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="{{ "css/custom.css" | relURL }}">
+
+  <!-- HugoBlox might include extra styles, so preserve existing ones -->
+  {{ with resources.Get "css/main.css" }} 
+  <link rel="stylesheet" href="{{ .RelPermalink }}">
+  {{ end }}
+
+  <!-- Inject any extra head elements from theme -->
+  {{ block "head_extra" . }}{{ end }}
+</head>

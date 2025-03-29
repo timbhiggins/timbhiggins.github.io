@@ -1,0 +1,10 @@
+.avatar-wrapper {
+    margin-top: 50px; /* Push the image down */
+    text-align: center; /* Center horizontally */
+}
+
+.avatar {
+    max-width: 150px; /* Ensure image size */
+    display: block;
+    margin: 0 auto; /* Center inside its container */
+}
