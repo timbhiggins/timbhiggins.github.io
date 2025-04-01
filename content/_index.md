@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: collection
     content:
-      title: Recent Publications
+      title: Featured Publications
       text: ""
       filters:
         folders:
