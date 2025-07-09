@@ -37,7 +37,7 @@ profiles:
     url: https://orcid.org/0000-0002-2204-9193
 
 interests:
-  - Atmospheric Rivers
+  - Multimodality
   - Generative AI
   - Weather and Climate Prediction
 
