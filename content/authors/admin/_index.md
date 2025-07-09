@@ -15,11 +15,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: Postdoctoral Reseach Associate | Climate Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Colorado - Boulder
+  - name: University of Virginia
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -56,4 +56,4 @@ education:
 
 ## About Me
 
-Tim Higgins is a PhD Candidate in the Climate Processes and Predictability group at the University of Colorado - Boulder Department of Atmospheric and Oceanic Sciences. His research focuses on understanding predictability in our climate system and improving prediction of atmospheric rivers across various scales. Much of his work leverages machine learning and generative artificial intelligence to make progress in achieving these goals.
+Tim Higgins is a Postdoctoral Research Associate and Climate Fellow in the School of Environmental Sciences and the School of Data Science at the University of Virginia. His current research focuses on improving weather forecasts with generative artificial intelligence and advancing the intersection between multimodality and extreme events.
