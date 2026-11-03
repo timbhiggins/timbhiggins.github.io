@@ -1,10 +1,10 @@
 ---
-title: "Subseasonal Potential Predictability of Horizontal Water Vapor Transport and Precipitation Extremes in the North Pacific"
+title: "Generating a 1000-Member Ensemble of Integrated Water Vapor Transport Forecasts with Diffusion"
 authors:
-- Higgins, T. B., A. C. Subramanian, W. E. Chapman, D. A. Lavers, and A. C. Winters.
+- Higgins, T. B., W. E. Chapman, A. C. Subramanian, and L. Delle Monache.
 
-date: "2024-09-01T00:00:00Z"
-doi: "10.1175/WAF-D-23-0170"
+date: "2026-01-07T00:00:00Z"
+doi: "10.1175/AIES-D-25-0075.1"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -15,10 +15,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Weather and Forecasting*, 39, 833-846"
-publication_short: "*WAF*"
+publication: "*Artificial Intelligence for the Earth Systems*, 5, e250075"
+publication_short: "*AIES*"
 
-abstract: Accurate forecasts of weather conditions have the potential to mitigate the social and economic damages they cause. To make informed decisions based on forecasts, it is important to determine the extent to which they could be skillful. This study focuses on subseasonal forecasts out to a lead time of four weeks. We examine the differences between the potential predictability, which is computed under the assumption of a "perfect model", of integrated vapor transport (IVT) and precipitation under extreme conditions in subseasonal forecasts across the northeast Pacific. Our results demonstrate significant forecast skill of extreme IVT and precipitation events (exceeding the 90$^{th}$ percentile) into week 4 for specific areas, particularly when anomalously wet conditions are observed in the true model state. This forecast skill during weeks 3 and 4 is closely associated with a zonal extension of the North Pacific Jet. These findings of the source of skillful subseasonal forecasts over the US West Coast could have implications for water management in these regions susceptible to drought and flooding extremes. Additionally, they may offer valuable insights for governments and industries on the US West Coast seeking to make informed decisions based on extended weather prediction.
+abstract: Ensemble weather predictions can be critical toward making informed decisions for operations that require risk assessment. The traditional approach toward creating an ensemble often involves making slight perturbations to initial conditions and model numerical solvers and physics to account for forecast uncertainty. This study instead uses diffusion, a form of generative artificial intelligence (AI), to make ensemble forecasts consisting of 1000 members from single-member deterministic dynamical Western Weather Research and Forecasting (West-WRF) Model forecasts over the North Pacific. After it has been trained, the diffusion ensemble can make predictions at high speeds and at a low computational expense while improving the skill of medium-range integrated water vapor transport (IVT). It has high performance when evaluated by binned ranked histograms and outperforms operational ensemble forecasts [Global Ensemble Forecast System (GEFS) and European Centre for Medium-Range Weather Forecasts (ECMWF)] in continuous ranked probability score, binned spread to root-mean-square error ratio, reliability diagrams, and Brier skill scores. The diffusion ensemble further demonstrated utility in representing real outcomes of extreme destructive events with realistic high-quality images.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -36,7 +36,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://journals.ametsoc.org/view/journals/wefo/39/6/WAF-D-23-0170.1.xml'
+url_source: 'https://journals.ametsoc.org/view/journals/aies/5/3/AIES-D-25-0075.1.xml'
 url_video: ''
 
 # Featured image
